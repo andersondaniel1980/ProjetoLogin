@@ -2,20 +2,19 @@ package entity;
 
 public class Usuario {
 	private Integer idUsuario;
-	private String nomeUsuario;
+	private String nome;
 	private String email;
 	private String senha;
 	
 	public Usuario() {
 	}
 
-	public Usuario(Integer idUsuario, String email, String senha, String nomeUsuario) {
+	public Usuario(Integer idUsuario, String email, String senha, String senha) {
 		this.idUsuario = idUsuario;
 		this.email = email;
 		this.senha = senha;
-		this.nomeUsuario = nomeUsuario;
 	}
-//aaa 
+
 	@Override
 	public String toString() {
 		return "Usuario [idUsuario=" + idUsuario + ", email=" + email + "]";

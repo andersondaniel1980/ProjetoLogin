@@ -9,13 +9,13 @@ public class Usuario {
 	public Usuario() {
 	}
 
-	public Usuario(Integer idUsuario, String email, String senha, String nomeUsuario) {
+	public Usuario(Integer idUsuario, String email, String senha, String nome) {
 		this.idUsuario = idUsuario;
 		this.email = email;
 		this.senha = senha;
-		this.nomeUsuario = nomeUsuario;
+		this.nomeUsuario = nome;
 	}
-//aaa 
+
 	@Override
 	public String toString() {
 		return "Usuario [idUsuario=" + idUsuario + ", email=" + email + "]";
