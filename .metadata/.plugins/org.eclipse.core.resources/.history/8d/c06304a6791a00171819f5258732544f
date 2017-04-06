@@ -15,7 +15,7 @@ public class Usuario {
 		this.senha = senha;
 		this.nomeUsuario = nomeUsuario;
 	}
-//Testando Eclipse GJIT
+//aaa sdsdf s
 	@Override
 	public String toString() {
 		return "Usuario [idUsuario=" + idUsuario + ", email=" + email + "]";
