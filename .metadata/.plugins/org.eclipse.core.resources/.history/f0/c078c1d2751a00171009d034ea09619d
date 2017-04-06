@@ -1,0 +1,25 @@
+package entity;
+
+public class Usuario {
+	private Integer idUsuario;
+	private String email;
+	private String senha;
+	
+	public Usuario() {
+	}
+
+	public Usuario(Integer idUsuario, String email, String senha) {
+		super();
+		this.idUsuario = idUsuario;
+		this.email = email;
+		this.senha = senha;
+	}
+
+	@Override
+	public String toString() {
+		return "Usuario [idUsuario=" + idUsuario + ", email=" + email + "]";
+	}
+	
+	
+
+}

@@ -1,0 +1,8 @@
+package entity;
+
+public class Usuario {
+	private Integer idUsuario;
+	private String emaiç;
+	
+
+}
