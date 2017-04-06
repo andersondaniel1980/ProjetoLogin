@@ -2,17 +2,18 @@ package entity;
 
 public class Usuario {
 	private Integer idUsuario;
+	private String nome;
 	private String email;
 	private String senha;
 	
 	public Usuario() {
 	}
 
-	public Usuario(Integer idUsuario, String email, String senha) {
-		super();
+	public Usuario(Integer idUsuario, String email, String senha, String nome) {
 		this.idUsuario = idUsuario;
 		this.email = email;
 		this.senha = senha;
+		this.nome = nome;
 	}
 
 	@Override
