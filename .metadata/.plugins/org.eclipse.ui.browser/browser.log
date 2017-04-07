@@ -1,0 +1,47 @@
+
+abr 07, 2017 24:52:37.50 NEW SESSION
+abr 07, 2017 24:52:37.50 [2936:2924:0407/005237.497:ERROR:content_settings_pref.cc(469)] Invalid pattern strings: ,
+abr 07, 2017 24:52:37.50 [2936:2924:0407/005237.498:ERROR:content_settings_pref.cc(295)] Invalid pattern strings: ,
+abr 07, 2017 24:52:43.80 [2936:2988:0407/005243.806:ERROR:backend_impl.cc(1033)] Critical error found -8
+abr 07, 2017 24:52:44.62 [3488:3356:0407/005244.627:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+abr 07, 2017 24:52:44.62 [3488:3356:0407/005244.627:ERROR:gl_surface_egl.cc(646)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+abr 07, 2017 01:01:12.83 [2936:2924:0407/010112.838:ERROR:CONSOLE(447)] "Uncaught (in promise) TypeError: Cannot read property '_revealViewportNode' of null", source: chrome-devtools://devtools/bundled/ui_lazy/ui_lazy_module.js (447)
+abr 07, 2017 01:18:24.69 [3488:3356:0407/011824.698:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1380
+abr 07, 2017 01:18:24.75 [3488:3356:0407/011824.698:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 619
+abr 07, 2017 01:18:24.75 [3488:3356:0407/011824.700:ERROR:gpu_video_decode_accelerator.cc(373)] HW video decode not available for profile 1
+abr 07, 2017 01:18:24.75 [3488:3356:0407/011824.701:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1380
+abr 07, 2017 01:18:24.75 [3488:3356:0407/011824.701:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 619
+abr 07, 2017 01:18:24.75 [3488:3356:0407/011824.701:ERROR:gpu_video_decode_accelerator.cc(373)] HW video decode not available for profile 1
+abr 07, 2017 01:18:50.05 [3488:3356:0407/011850.050:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1380
+abr 07, 2017 01:18:50.05 [3488:3356:0407/011850.051:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 619
+abr 07, 2017 01:18:50.05 [3488:3356:0407/011850.053:ERROR:gpu_video_decode_accelerator.cc(373)] HW video decode not available for profile 1
+abr 07, 2017 01:18:53.02 [3488:3356:0407/011853.019:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1380
+abr 07, 2017 01:18:53.02 [3488:3356:0407/011853.019:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 619
+abr 07, 2017 01:18:53.02 [3488:3356:0407/011853.019:ERROR:gpu_video_decode_accelerator.cc(373)] HW video decode not available for profile 1
+abr 07, 2017 01:18:54.37 [3488:3356:0407/011854.374:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1380
+abr 07, 2017 01:18:54.37 [3488:3356:0407/011854.374:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 619
+abr 07, 2017 01:18:54.37 [3488:3356:0407/011854.374:ERROR:gpu_video_decode_accelerator.cc(373)] HW video decode not available for profile 1
+abr 07, 2017 01:18:55.47 [3488:3356:0407/011855.475:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1380
+abr 07, 2017 01:18:55.47 [3488:3356:0407/011855.475:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 619
+abr 07, 2017 01:18:55.47 [3488:3356:0407/011855.475:ERROR:gpu_video_decode_accelerator.cc(373)] HW video decode not available for profile 1
+abr 07, 2017 01:19:14.59 [3488:3356:0407/011914.596:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1380
+abr 07, 2017 01:19:14.59 [3488:3356:0407/011914.596:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 619
+abr 07, 2017 01:19:14.59 [3488:3356:0407/011914.596:ERROR:gpu_video_decode_accelerator.cc(373)] HW video decode not available for profile 1
+abr 07, 2017 01:19:16.75 [3488:3356:0407/011916.755:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1380
+abr 07, 2017 01:19:16.75 [3488:3356:0407/011916.755:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 619
+abr 07, 2017 01:19:16.75 [3488:3356:0407/011916.755:ERROR:gpu_video_decode_accelerator.cc(373)] HW video decode not available for profile 1
+abr 07, 2017 01:19:20.65 [3488:3356:0407/011920.652:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1380
+abr 07, 2017 01:19:20.65 [3488:3356:0407/011920.652:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 619
+abr 07, 2017 01:19:20.65 [3488:3356:0407/011920.652:ERROR:gpu_video_decode_accelerator.cc(373)] HW video decode not available for profile 1
+abr 07, 2017 01:19:22.25 [3488:3356:0407/011922.254:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1380
+abr 07, 2017 01:19:22.25 [3488:3356:0407/011922.254:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 619
+abr 07, 2017 01:19:22.25 [3488:3356:0407/011922.254:ERROR:gpu_video_decode_accelerator.cc(373)] HW video decode not available for profile 1
+abr 07, 2017 01:19:25.92 [3488:3356:0407/011925.926:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1380
+abr 07, 2017 01:19:25.92 [3488:3356:0407/011925.926:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 619
+abr 07, 2017 01:19:25.93 [3488:3356:0407/011925.926:ERROR:gpu_video_decode_accelerator.cc(373)] HW video decode not available for profile 1
+abr 07, 2017 01:19:28.76 [3488:3356:0407/011928.760:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1380
+abr 07, 2017 01:19:28.76 [3488:3356:0407/011928.761:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 619
+abr 07, 2017 01:19:28.76 [3488:3356:0407/011928.762:ERROR:gpu_video_decode_accelerator.cc(373)] HW video decode not available for profile 1
+abr 07, 2017 01:19:29.90 [3488:3356:0407/011929.903:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1380
+abr 07, 2017 01:19:29.90 [3488:3356:0407/011929.903:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 619
+abr 07, 2017 01:19:29.90 [3488:3356:0407/011929.903:ERROR:gpu_video_decode_accelerator.cc(373)] HW video decode not available for profile 1
